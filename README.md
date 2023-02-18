@@ -1,5 +1,6 @@
-# NodeGraph
-한국분은 [An introduction for WPF NodeGraph( Korean )](https://github.com/lifeisforu/NodeGraph/wiki/An-introduction-for-WPF-NodeGraph(-Koeran-)) 를 참고하세요.
+
+In this platform, a simple but efficient solution is considered, so that basic logic and effective functionality can be created to classify and analyze information without the need for coding. Using Mr. Shannon's theory (A Mathematical Theory of Communication); Except for the information content, we look at the information as a signal. The content of that information is marked and classified by users in the information boxes, and by specifying the point where the information is generated and the destination of sending or referring the information, a location-based map of the information boxes will be generated (It wants to be locations in the same computer network or locations in two different countries or maybe two different electron orbits).
+Information boxes are a basic package of signs or hashtags that users generally define for the subject of information implemented in the project. This descriptive information includes information sources, subjective phenomena, collection platforms, scope and size of information, doctrine layer, impact factor or value, time and date and location of origin and destination of information. Therefore, we can use knowledge graph technology as a method of information analyze.  A knowledge graph is made up of three main components: nodes, edges, and labels. Any information box can be a node. An edge defines the relationship between the nodes.
 
 Sample Project : https://github.com/lifeisforu/NodeGraph/raw/master/Documents/NodeGraphCalculator.zip
 
